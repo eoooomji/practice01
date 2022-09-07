@@ -2,4 +2,5 @@
 ---
 1. what   
     ?
-    
+
+![what](asset/gitcheatsheet.jpg)
